@@ -1,0 +1,10 @@
+﻿  main.cpp
+  tiling.cpp
+c:\users\alexis\documents\hwtile\hwtile\tiling.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwtile\hwtile\tiling.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwtile\hwtile\tiling.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwtile\hwtile\tiling.cpp(299): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): warning MSB8015: All source files are not up-to-date:  forcing a rebuild of all source files due to the contents of 'C:\Users\Alexis\Documents\hwTILE\hwTILE\Debug\hwTILE.tlog\CL.command.1.tlog' being invalid.
+LINK : warning LNK4076: invalid incremental status file 'C:\Users\Alexis\Documents\hwTILE\Debug\hwTILE.ilk' (which will be deleted); linking nonincrementally
+C:\Users\Alexis\Documents\hwTILE\Debug\hwTILE.pdb : fatal error LNK1318: Unexpected PDB error; FORMAT (11) 'C:\Users\Alexis\Documents\hwTILE\Debug\hwTILE.pdb'
